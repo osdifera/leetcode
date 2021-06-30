@@ -18,7 +18,7 @@ func reverse(x int) int {
 	return result
 }
 
-func main() {
+func main07() {
 	fmt.Println("***Executing***")
 	result := reverse(12345)
 	fmt.Println(result)
