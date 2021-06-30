@@ -1,7 +1,9 @@
 # leetcode
 
-leetcode problems with go
+Solving leetcode problems with go
 
-Easy
-*7-Reverse Integer
-*9-Palindromo number
+## Easy
+
+-   7-Reverse Integer
+-   9-Palindromo number
+-   13-Roman to Integer
