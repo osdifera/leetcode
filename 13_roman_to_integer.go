@@ -36,7 +36,7 @@ func romanToInt(s string) int {
 	return res
 }
 
-func main(){
+func main13(){
 	result := romanToInt("MMXXIV")
 	fmt.Println(result)
 }
